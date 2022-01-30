@@ -37,7 +37,7 @@ fun myfunction3(x: Int ,y: Int): Int{
 // a shorter syntax for returning values. 
 // You can use the = operator instead of return without specifying the return type. 
 // Kotlin is smart enough to automatically find out what it is
-fun myfunction4(a:Int , b: Int) = a+b
+fun myfunction4(a:Int , b: Int) = x+y
 
 fun main(){
     myFunction("John")
